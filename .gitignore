@@ -1,0 +1,27 @@
+# Raw and processed datasets
+data/raw/
+data/cleaned/
+*.csv
+*.xlsx
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Local environment
+.venv/
+venv/
+.env
+
+# Database files and backups
+*.bak
+*.mdf
+*.ldf
+
+# Power BI temporary files
+~$*.pbix
+
+# Operating system
+.DS_Store
+Thumbs.db
